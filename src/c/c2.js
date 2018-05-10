@@ -11,7 +11,9 @@ let a = 1
 
 /**
  * rebase test for step 2
- *//**
+ */
+
+/**
  * master branch go
  * master branch rebase step 1 go
  */
