@@ -9,3 +9,5 @@
   ## for bug 4
 
   ## test merge same file from branch issue53
+  ## for test merge same file from branch dev
+
