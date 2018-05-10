@@ -7,3 +7,5 @@
 
   ## for bug 3
   ## for bug 4
+
+  ## for test merge same file from branch dev
