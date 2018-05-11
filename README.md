@@ -18,3 +18,4 @@ test git remote
 
 	### topicA branch 
 	
+	### qixin/merge_topicA branch
