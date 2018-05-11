@@ -13,6 +13,5 @@ test git remote
 		所属组别A，
 		人员： Jessica, John
 	
-####
 	### featureB branch
 	所属组：B，成员：Jessica、Josie
